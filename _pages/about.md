@@ -32,7 +32,7 @@ redirect_from:
 # 📝 论文专利
 
 ### 英文
----
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCSIP 2023</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,7 +53,7 @@ redirect_from:
 
 
 ### 中文
----
+
 
 - `季诺澄`,杨亦凯,黄胤维.虚拟校园+元宇宙构筑校园新形态[J].中国教育网络,2023(7):78-80
 [[网页]](https://lib.cqvip.com/Qikan/Article/Detail?id=00002GGD4B6O7JP0MJDO2JP069R)
@@ -63,7 +63,7 @@ redirect_from:
 
 
 ### 专利
----
+
 - 杨明; `季诺澄`; 庄瀚洋; 王春香. 一种基于三维点云的虚拟现实场景建模系统和方法.
 - 杨明; 于子岐; 庄瀚洋; `季诺澄`; 余勇瑞; 王春香; 王冰. 在三维街景地图上与渲染实体进行交互的方法及系统.
 - 杨明; 余勇瑞; 庄瀚洋; `季诺澄`; 于子岐; 王春香; 王冰. 基于NeRF和现实地理的三维街景地图构建方法及系统.
