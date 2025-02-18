@@ -33,7 +33,7 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCSIP 2023</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`N. Ji`, H. Zhuang, and M. Yang, "Construction of Minecraft Virtual Reality Scene Based on Voxel Point Cloud," in Cognitive Systems and Information Processing, F. Sun, Q. Meng, Z. Fu, and B. Fang, Eds., Singapore: Springer Nature, 2024, pp. 275–291. doi: 10.1007/978-981-99-8021-5_21. 
@@ -42,7 +42,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2025</div><img src='images/ieeeiv2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`N. Ji`, H. Zhuang, C. Wang and M. Yang, "DiffCraft: Transforming Minecraft Assets into Realistic 3D Gaussian Splatting Scenes with Multi-View Consistent Diffusion Model," in IEEE Intelligent Vehicles Symposium. (under review)
