@@ -24,8 +24,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 2029.07*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="23pt"></a> 上海交通大学 电子信息与电气工程学院, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.sjtu.edu.cn/"><img class="svg" src="/images/SJTU_logo.svg" width="20pt"></a> 上海交通大学 密西根学院, 本科
+- *2024.09 - 2029.07*, 博士 上海交通大学 电子信息与电气工程学院 控制科学与工程专业[（智能车实验室）](https://cyberc3.sjtu.edu.cn/)
+- *2020.09 - 2024.08*, 本科 上海交通大学 密西根学院 电子信息与电气工程学院
  
 <span class='anchor' id='-lwzl'></span>
 
