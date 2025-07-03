@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "季诺澄"
-description              : "智能车实验室"
-repository               : "coffeageno/coffeageno.github.io"
+title                    : "陈佳宝"
+description              : ""
+repository               : "JiabaoChen1/JiabaoChen1.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "季诺澄"
-  avatar           : "images/personal_photo.png"
-  bio              : "上海交通大学"
-  location         : "中国 上海"
+  name             : "陈佳宝"
+  avatar           : "images/me.JPG"
+  bio              : "华侨大学"
+  location         : "中国 厦门"
   employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=MqexJk0AAAAJ"
-  email            : "coffeageno@sjtu.edu.cn"
+  email            : "23014083007@stu.hqu.edu.cn"
   researchgate     : # "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "coffeageno"
+  github           : "JiabaoChen1"
   google_plus      :
   keybase          :
   instagram        :

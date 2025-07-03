@@ -4,39 +4,43 @@ layout: compress
 
 <!doctype html>
 <html lang="en" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
 
-  <body>
+<head>
+  {% include head.html %}
+  {% include head/custom.html %}
+</head>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+<body>
 
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
+  {% include browser-upgrade.html %}
+  {% include masthead.html %}
+
+  <div id="main" role="main">
+    {% include sidebar.html %}
+
+    <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+      {% if page.title %}
+      <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{%
+      endif %}
+      <div class="page__inner-wrap">
+        <section class="page__content" itemprop="text">
+          {{ content }}
+        </section>
+      </div>
+    </article>
+  </div>
+
+  {% include scripts.html %}
+
+  <div class="footer_site">
+    <hr />
+    <div class="footer_copyright">
+      © 2025
+      <!-- <a class="page_a" href="https://github.com/RayeRen/acad-homepage.github.io">
+        acad
+      </a> -->
     </div>
+  </div>
+</body>
 
-    {% include scripts.html %}
-
-<div class="footer_site">
-<hr/>
-<div class="footer_copyright">
-  © 2024 上海交通大学 · 季诺澄 | 基于&nbsp
-  <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
-  acad
-  </a>&nbsp模板
-</div>
-</div>
-  </body>
 </html>

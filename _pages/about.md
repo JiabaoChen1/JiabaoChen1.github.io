@@ -23,36 +23,28 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+<!-- # 🎓 学历
 - *2024.09 - 2029.07*, 博士 上海交通大学 电子信息与电气工程学院 控制科学与工程专业[（智能车实验室）](https://cyberc3.sjtu.edu.cn/)
 - *2020.09 - 2024.08*, 本科 上海交通大学 密西根学院 电子与计算机工程专业
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-lwzl'></span> -->
 
-# 📝 论文专利
+# 📝 论文
 
-### 英文
+<!-- ### 英文 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCSIP 2023</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Miccai 2025</div><img src='images/Miccai2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`N. Ji`, H. Zhuang, and M. Yang, "Construction of Minecraft Virtual Reality Scene Based on Voxel Point Cloud," in Cognitive Systems and Information Processing, F. Sun, Q. Meng, Z. Fu, and B. Fang, Eds., Singapore: Springer Nature, 2024, pp. 275–291. doi: 10.1007/978-981-99-8021-5_21. 
-[[网页]](https://link.springer.com/chapter/10.1007/978-981-99-8021-5_21) [[预览]](1) [[下载]](/pdf/2)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IV 2025</div><img src='images/ieeeiv2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`N. Ji`, H. Zhuang, C. Wang and M. Yang, "DiffCraft: Transforming Minecraft Assets into Realistic 3D Gaussian Splatting Scenes with Multi-View Consistent Diffusion Model," in IEEE Intelligent Vehicles Symposium. (under review)
+-	`J. Chen`, S. Xiong, and J. Peng, "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025. 
+<!-- [[网页]](https://link.springer.com/chapter/10.1007/978-981-99-8021-5_21) [[预览]](1)  -->
+[[下载]](/pdf/Miccai2025.pdf)
 
 </div>
 </div>
 
 
-
-### 中文
+<!-- ### 中文
 
 
 - `季诺澄`,杨亦凯,黄胤维.虚拟校园+元宇宙构筑校园新形态[J].中国教育网络,2023(7):78-80
@@ -69,13 +61,13 @@ redirect_from:
 - 杨明; 余勇瑞; 庄瀚洋; `季诺澄`; 于子岐; 王春香; 王冰. 基于NeRF和现实地理的三维街景地图构建方法及系统.
 - 杨明; 徐欣颜; 庄瀚洋; `季诺澄`; 戚治齐; 王春香; 王冰. 基于手机相机众包数据的NeRF实景建模方法及系统.
 - 杨明; 戚治齐; 庄瀚洋; `季诺澄`; 徐欣颜; 王春香; 王冰. 基于车载相机获取实时街景图像构建NeRF实景的方法.
-- 吴卫华; `季诺澄`. 具有擦鞋功能的扶手电梯.
+- 吴卫华; `季诺澄`. 具有擦鞋功能的扶手电梯. -->
 
 
 
-<span class='anchor' id='-ryjx'></span>
+<!-- <span class='anchor' id='-ryjx'></span> -->
 
-# 🏅 主要荣誉
+<!-- # 🏅 主要荣誉
 - *2024* 上海市优秀毕业生 
 - *2023* 交大䇹政学者、溥渊未来学者，未来技术太湖奖学金、吴炯孙洁腾飞奖学金
 - *2022* 交大学生年度人物、三好学生，密西根学院卓越领导力奖、冯桐笙奖学金
@@ -91,4 +83,4 @@ redirect_from:
   - 3D-Gaussian-Splatting-based Immersive Street View Map (基于3D高斯泼溅的沉浸式街景地图)，获交大毕业设计银奖
   - Intelligent Diagnostic Copilot (人工智能驱动的机器监控和诊断助手)，入选德国SICK 2023黑客马拉松挑战赛
   - Automatic Virtual Reality Scene Reconstruction through Machine Learning Approach，2023交大本科生科研项目
-
+ -->
