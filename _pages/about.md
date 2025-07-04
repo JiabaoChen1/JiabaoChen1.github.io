@@ -23,11 +23,12 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-<!-- # 🎓 学历
-- *2024.09 - 2029.07*, 博士 上海交通大学 电子信息与电气工程学院 控制科学与工程专业[（智能车实验室）](https://cyberc3.sjtu.edu.cn/)
-- *2020.09 - 2024.08*, 本科 上海交通大学 密西根学院 电子与计算机工程专业
+# 🎓 学历
+- *2023.09 - 至今*, 硕士 华侨大学 计算机技术专业
+- *2022.06 - 2022.09*, 科研助理 闽江学院
+- *2018.09 - 2022.06*, 本科 闽江学院 数据科学与大数据技术专业
  
-<span class='anchor' id='-lwzl'></span> -->
+<span class='anchor' id='-lwzl'></span>
 
 # 📝 论文
 
@@ -36,7 +37,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Miccai 2025</div><img src='images/Miccai2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`J. Chen`, S. Xiong, and J. Peng, "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025. 
+-	**Jiabao Chen**, Shan Xiong, and Jialin Peng*, "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025. 
 <!-- [[网页]](https://link.springer.com/chapter/10.1007/978-981-99-8021-5_21) [[预览]](1)  -->
 [[下载]](/pdf/Miccai2025.pdf)
 
