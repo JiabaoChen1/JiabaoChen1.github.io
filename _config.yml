@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈佳宝"
-  avatar           : "images/me.JPG"
-  bio              : "华侨大学"
-  location         : "中国 厦门"
+  name             : "Jiabao Chen"
+  avatar           : "images/me.jpg"
+  bio              : "Huaqiao University"
+  location         : "Xiamen, China"
   employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=MqexJk0AAAAJ"

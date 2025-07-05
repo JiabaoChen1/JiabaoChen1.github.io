@@ -1,12 +1,15 @@
 # main links links
 main:
-  - title: "简介"
+  - title: "About me"
     url: "/#about-me"
 
-  - title: "学历"
+  - title: "Education"
     url: "/#-xl"
 
-  - title: "论文"
+  - title: "Experience"
+    url: "/#-ex"
+
+  - title: "Publications"
     url: "/#-lwzl"
 
   # - title: "荣誉奖项"

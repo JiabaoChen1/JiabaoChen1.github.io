@@ -17,20 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-不想写正经的主页，但以防不时之需。
-  
+I am a master's student at the College of Computer Science and Technology, Huaqiao University. My research interest is medical image processing.
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2023.09 - 至今*, 硕士 华侨大学 计算机技术专业
-- *2022.06 - 2022.09*, 科研助理 闽江学院
-- *2018.09 - 2022.06*, 本科 闽江学院 数据科学与大数据技术专业
+# 🎓 Educations
+- *2023.09 - Present*, Master, Huaqiao University
+- *2018.09 - 2022.06*, Undergraduate, Minjiang University
  
+ <span class='anchor' id='-ex'></span>
+# 💼 Experience
+- *2022.06 - 2022.09*, Research Assistant, Minjiang University
+
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文
+# 🔥 News
+2025.6: 🎉 The paper is accepted by Miccai 2025.
+
+# 📝 Publications
 
 <!-- ### 英文 -->
 
@@ -39,7 +44,7 @@ redirect_from:
 
 -	**Jiabao Chen**, Shan Xiong, and Jialin Peng*, "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025. 
 <!-- [[网页]](https://link.springer.com/chapter/10.1007/978-981-99-8021-5_21) [[预览]](1)  -->
-[[下载]](/pdf/Miccai2025.pdf)
+[[PDF]](/pdf/Miccai2025.pdf) [[code]](https://github.com/JiabaoChen1/Prompt-DAS)
 
 </div>
 </div>
