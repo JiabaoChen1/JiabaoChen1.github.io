@@ -42,7 +42,7 @@ I am a master's student at the College of Computer Science and Technology, Huaqi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Miccai 2025</div><img src='images/Miccai2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Jiabao Chen**, Shan Xiong, and Jialin Peng*, "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025. 
+-	**J. Chen**, S. Xiong, and J. Peng*, "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025. 
 <!-- [[网页]](https://link.springer.com/chapter/10.1007/978-981-99-8021-5_21) [[预览]](1)  -->
 [[PDF]](/pdf/Miccai2025.pdf) [[code]](https://github.com/JiabaoChen1/Prompt-DAS)
 
