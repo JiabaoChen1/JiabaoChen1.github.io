@@ -17,7 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student at the College of Computer Science and Technology, Huaqiao University. My research interest is medical image processing.
+I am a master's student at the College of Computer Science and Technology, Huaqiao University. 
+
+My research interest includes:
+* Medical Image Analysis
+* Domain Adaptation
+* Weakly Supervised Learning
 
 
 <span class='anchor' id='-xl'></span>
