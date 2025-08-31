@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student at the College of Computer Science and Technology, Huaqiao University. 
+I am a master's student at the College of Computer Science and Technology, Huaqiao University.
 
 My research interest includes:
 * Medical Image Analysis
 * Domain Adaptation
 * Weakly Supervised Learning
+
+# 📧Seeking a PhD Opportunity
+I am currenly looking for PhD Opportunity. If you are interested in my research or aware of potential PhD opportunities, I would greatly appreciate your recommendation. Please feel free to contact me. 
 
 
 <span class='anchor' id='-xl'></span>
