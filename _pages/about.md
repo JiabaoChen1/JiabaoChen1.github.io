@@ -25,7 +25,7 @@ My research interest includes:
 * Weakly Supervised Learning
 
 # 📧Seeking a PhD Opportunity
-I am currenly looking for PhD Opportunity. If you are interested in my research or aware of potential PhD opportunities, I would greatly appreciate your recommendation. Please feel free to contact me. 
+I am currently looking for PhD Opportunity. If you are interested in my research or aware of potential PhD opportunities, I would greatly appreciate your recommendation. Please feel free to contact me. 
 
 
 <span class='anchor' id='-xl'></span>
