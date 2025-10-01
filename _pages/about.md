@@ -52,7 +52,8 @@ I am currently looking for PhD Opportunity. If you are interested in my research
 
 -	**J. Chen**, S. Xiong, and J. Peng*, "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images, Medical Image Computing and Computer Assisted Intervention (MICCAI), 2025. 
 <!-- [[网页]](https://link.springer.com/chapter/10.1007/978-981-99-8021-5_21) [[预览]](1)  -->
-[[PDF]](/pdf/Miccai2025.pdf) [[code]](https://github.com/JiabaoChen1/Prompt-DAS)
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_49)
+[[PDF]](/pdf/Miccai2025.pdf) [[Code]](https://github.com/JiabaoChen1/Prompt-DAS)
 
 </div>
 </div>
