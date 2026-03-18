@@ -24,10 +24,6 @@ My research interest includes:
 * Domain Adaptation
 * Weakly Supervised Learning
 
-# 📧Seeking a PhD Opportunity
-I am currently looking for PhD Opportunity. If you are interested in my research or aware of potential PhD opportunities, I would greatly appreciate your recommendation. Please feel free to contact me. 
-
-
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
@@ -54,6 +50,24 @@ I am currently looking for PhD Opportunity. If you are interested in my research
 <!-- [[网页]](https://link.springer.com/chapter/10.1007/978-981-99-8021-5_21) [[预览]](1)  -->
 [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-04978-0_49)
 [[PDF]](/pdf/Miccai2025.pdf) [[Code]](https://github.com/JiabaoChen1/Prompt-DAS)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **J. Chen**, S. Xiong, and J. Peng*, "Prefer-DAS: Learning from Local Preferences and Sparse Prompts for Domain Adaptive Segmentation of Electron Microscopy," arXiv preprint, 2026.
+[[Paper]](https://arxiv.org/abs/2602.19423)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- S. Xiong, **J. Chen**, Y. Wang, and J. Peng*, "Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning for Weakly Supervised Domain Adaptive Segmentation of Electron Microscopy," arXiv preprint, 2025.
+[[Paper]](https://arxiv.org/abs/2510.16450)
 
 </div>
 </div>
