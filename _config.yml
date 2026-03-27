@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiabao Chen"
-  avatar           : "images/me-miccai2025.jpg"
+  avatar           : "/images/me-miccai2025.jpg"
   bio              : "Huaqiao University"
   location         : "Xiamen, China"
   employer         : 

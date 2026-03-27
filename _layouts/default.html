@@ -3,7 +3,7 @@ layout: compress
 ---
 
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="{{ page.lang | default: 'en' }}" class="no-js">
 
 <head>
   {% include head.html %}
@@ -35,10 +35,14 @@ layout: compress
   <div class="footer_site">
     <hr />
     <div class="footer_copyright">
-      © 2025
-      <!-- <a class="page_a" href="https://github.com/RayeRen/acad-homepage.github.io">
-        acad
-      </a> -->
+      © {{ site.time | date: "%Y" }}
+    </div>
+    <div class="footer_copyright" style="font-size: 0.9em; color: #666; margin-top: 0.15em;">
+      {% if page.lang == 'zh' %}
+      最后更新：{{ site.time | date: "%Y-%m-%d %H:%M" }} · by Research AI
+      {% else %}
+      Last updated: {{ site.time | date: "%Y-%m-%d %H:%M" }} · by Research AI
+      {% endif %}
     </div>
   </div>
 </body>

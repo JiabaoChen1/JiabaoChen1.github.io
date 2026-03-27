@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "关于我"
+    url: "/zh-cn/#about-me"
+
+  - title: "教育经历"
+    url: "/zh-cn/#-xl"
+
+  - title: "科研经历"
+    url: "/zh-cn/#-ex"
+
+  - title: "论文发表"
+    url: "/zh-cn/#-lwzl"
