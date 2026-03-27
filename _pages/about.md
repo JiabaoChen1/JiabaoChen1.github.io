@@ -54,7 +54,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/prefer-das.png' alt="Prefer-DAS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/Prefer-DAS.png' alt="Prefer-DAS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **J. Chen**, S. Xiong, and J. Peng*, "Prefer-DAS: Learning from Local Preferences and Sparse Prompts for Domain Adaptive Segmentation of Electron Microscopy," arXiv preprint, 2026.
@@ -63,7 +63,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/instance-aware-pseudo-labeling.png' alt="Instance-Aware Pseudo-Labeling" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Xiong.png' alt="Instance-Aware Pseudo-Labeling" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - S. Xiong, **J. Chen**, Y. Wang, and J. Peng*, "Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning for Weakly Supervised Domain Adaptive Segmentation of Electron Microscopy," arXiv preprint, 2025.
