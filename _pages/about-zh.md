@@ -31,6 +31,7 @@ lang: zh
 <span class='anchor' id='-lwzl'></span>
 
 # 🔥 最新消息
+- *2026.05*：论文 **Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning** 被 *Neuroinformatics* 接收。
 - *2025.06*：论文 **Prompt-DAS** 被 MICCAI 2025 接收。
 
 # 📝 论文发表
@@ -55,11 +56,11 @@ lang: zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='/images/Xiong.png' alt="Instance-Aware Pseudo-Labeling" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neuroinformatics 2026</div><img src='/images/Xiong.png' alt="Instance-Aware Pseudo-Labeling" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- S. Xiong, **J. Chen**, Y. Wang, and J. Peng*, "Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning for Weakly Supervised Domain Adaptive Segmentation of Electron Microscopy," *arXiv 预印本*, 2025.
-[[Paper]](https://arxiv.org/abs/2510.16450)
+- S. Xiong, **J. Chen**, Y. Wang, and J. Peng*, "Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning for Weakly Supervised Domain Adaptive Segmentation of Electron Microscopy," *Neuroinformatics*, 2026.
+[[Paper]](https://doi.org/10.1007/s12021-026-09786-1) [[arXiv]](https://arxiv.org/abs/2510.16450)
 [[PDF]](/pdf/Instance-Aware-arxiv.pdf)
 
 </div>

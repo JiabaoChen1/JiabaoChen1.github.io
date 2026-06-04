@@ -38,6 +38,8 @@ My research interest includes:
 <span class='anchor' id='-lwzl'></span>
 
 # 🔥 News
+2026.5: 🎉 The paper **Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning** is accepted by Neuroinformatics.
+
 2025.6: 🎉 The paper is accepted by Miccai 2025.
 
 # 📝 Publications
@@ -64,11 +66,11 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Xiong.png' alt="Instance-Aware Pseudo-Labeling" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neuroinformatics 2026</div><img src='images/Xiong.png' alt="Instance-Aware Pseudo-Labeling" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- S. Xiong, **J. Chen**, Y. Wang, and J. Peng*, "Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning for Weakly Supervised Domain Adaptive Segmentation of Electron Microscopy," arXiv preprint, 2025.
-[[Paper]](https://arxiv.org/abs/2510.16450)
+- S. Xiong, **J. Chen**, Y. Wang, and J. Peng*, "Instance-Aware Pseudo-Labeling and Class-Focused Contrastive Learning for Weakly Supervised Domain Adaptive Segmentation of Electron Microscopy," *Neuroinformatics*, 2026.
+[[Paper]](https://doi.org/10.1007/s12021-026-09786-1) [[arXiv]](https://arxiv.org/abs/2510.16450)
 
 </div>
 </div>
